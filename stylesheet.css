@@ -1,8 +1,11 @@
+@charset "UTF-8";
+
 :root {
   --bg-color: #ffffff;
   --text-color: #333333;
   --text-light: #666666;
-  --accent-color: #2563eb; /* Modern blue */
+  --accent-color: #2563eb;
+  /* Modern blue */
   --accent-hover: #1d4ed8;
   --border-color: #e5e7eb;
   --bg-secondary: #f9fafb;
@@ -221,6 +224,6 @@ footer {
 }
 
 .globe-container {
-    margin: 2rem auto;
-    width: 100px;
+  margin: 2rem auto;
+  width: 100px;
 }
