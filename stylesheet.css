@@ -131,6 +131,12 @@ h2 {
 /* News */
 .news-list {
   list-style: none;
+  max-height: 250px;
+  overflow-y: auto;
+  padding-right: var(--spacing-sm);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: var(--spacing-md);
 }
 
 .news-item {
