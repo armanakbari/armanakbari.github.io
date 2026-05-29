@@ -1,0 +1,24 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Arman Akbari
+    - name: Email
+      value: akbari.ar@northeastern.edu
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Engineering
+      institution: Northeastern University, Boston, MA
+      year: 2024 - Present
+      description:
+        - "Co-advised by Prof. Yanzhi Wang and Prof. Xuan Zhang"
+        - "Research focus: Efficient AI for LLMs, Multi-modal LLMs, and Diffusion Models"
+    - title: B.Sc. in Computer Science
+      institution: University of Tehran, Tehran, Iran
+
+- title: Professional Services
+  type: list
+  contents:
+    - "Conference Reviewer: ICML 2025"
