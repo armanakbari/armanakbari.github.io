@@ -7,7 +7,7 @@ subtitle: PhD Student in Computer Engineering at <a href="https://www.northeaste
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true
+  image_circular: false
   more_info:
 
 selected_papers: true
