@@ -1,10 +1,9 @@
-"ICLR":
-  url: https://iclr.cc/
-  color: "#2563eb"
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
 
-"ITSC":
-  url: https://ieee-itsc.org/2025/
-  color: "#2563eb"
+"PhysRev":
+  url: https://journals.aps.org/
 
-"ICEE":
-  color: "#2563eb"
+"Vision":
+  color: "#009f36"
