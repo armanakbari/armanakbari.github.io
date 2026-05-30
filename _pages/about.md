@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false
-  more_info:
+  more_info: >
+    <p>Everglades National Park, Miami</p>
 
 news: true
 selected_papers: true
