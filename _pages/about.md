@@ -6,7 +6,7 @@ subtitle: "PhD Candidate at Northeastern University · akbari.ar@northeastern.ed
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info:
 
