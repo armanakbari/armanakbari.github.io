@@ -34,6 +34,12 @@ ninja.data = [{
           section: "News",},{id: "news-circuitsense-full-version-got-accepted-in-iclr-2026",
           title: 'CircuitSense (full version) got accepted in ICLR 2026!',
           description: "",
+          section: "News",},{id: "news-i-received-my-m-s-in-computer-engineering-from-northeastern-university-with-a-concentration-in-computer-vision-machine-learning-and-algorithms-cvla-along-the-way-to-my-ph-d",
+          title: 'I received my M.S. in Computer Engineering from Northeastern University, with a concentration...',
+          description: "",
+          section: "News",},{id: "news-our-paper-cross-platform-scaling-of-vision-language-action-models-from-edge-to-cloud-gpus-was-accepted-at-glsvlsi-2026",
+          title: 'Our paper Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs was...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
