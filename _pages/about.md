@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false
   more_info: >
-    <p>Everglades National Park, Miami</p>
+    <p>Northeastern University, Boston, MA</p>
 
 news: true
 selected_papers: true
