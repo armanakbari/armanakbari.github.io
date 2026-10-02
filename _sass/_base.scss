@@ -732,11 +732,14 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid var(--global-divider-color);
 
-      &:last-child {
-        border-bottom: none;
+      & + li {
+        padding-top: 1rem;
+        border-top: 1px solid var(--global-divider-color);
+      }
+
+      &:has(> .preprint) + li:not(:has(> .preprint)) {
+        border-top: 2px solid var(--global-text-color-light);
       }
 
       .preview {

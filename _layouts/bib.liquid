@@ -1,6 +1,6 @@
 ---
 ---
-<div class="row">
+<div class="row{% if entry.abbr == 'Preprint' %} preprint{% endif %}">
   <div class="col col-sm-2 col-md-1 abbr">
     {%- if entry.abbr -%}
       {%- if site.data.venues[entry.abbr] -%}
