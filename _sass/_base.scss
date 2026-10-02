@@ -733,12 +733,8 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      & + li {
-        padding-top: 1rem;
-        border-top: 1px solid var(--global-divider-color);
-      }
-
       &:has(> .preprint) + li:not(:has(> .preprint)) {
+        padding-top: 1rem;
         border-top: 2px solid var(--global-text-color-light);
       }
 
