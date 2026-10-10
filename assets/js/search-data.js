@@ -44,7 +44,7 @@ ninja.data = [{
           title: 'Our paper Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs was...',
           description: "",
           section: "News",},{id: "news-joined-roboforce-as-an-ai-resident",
-          title: 'Joined RoboForce as an AI Resident.',
+          title: 'Joined  RoboForce as an AI Resident.',
           description: "",
           section: "News",},{id: "news-actquant-and-palette-accepted-in-neurips-2026",
           title: 'ActQuant and Palette accepted in NeurIPS 2026!',
